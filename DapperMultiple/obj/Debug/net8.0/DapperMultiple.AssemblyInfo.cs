@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DapperMultiple")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49211b4d74c2b3d827f81192cdfa327c4293e028")]
 [assembly: System.Reflection.AssemblyProductAttribute("DapperMultiple")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DapperMultiple")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
